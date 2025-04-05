@@ -1,0 +1,5 @@
+DISCORD_TOKEN=your_token_here
+DISCORD_CHANNEL=channel_id_here
+MC_SERVER=minecraft.server.ip
+MC_PORT=25565
+MC_USERNAME=BotName
